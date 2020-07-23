@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Epilogue', sans-serif;
+  color: #393e46;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Alex Brush', cursive;
+  font-size: 55px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.topContainer {
+  background-color: #758184;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middleContainer {
+  background-color: #dbdbdb;
+}
+
+.bottomContainer {
+  background-color: #dbdbdb;
+}
+
+.bottomCloud1 {
+  position: absolute;
+  left: 20%;
+  bottom: 300px;
+}
+
+.bottomCloud2 {
+  position: absolute;
+  right: 30%;
+  top: 400px;
+}
+
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 10px;
+}
+
+.plane {
+  position: absolute;
+  height: 230px;
+}
+
+.gaming {
+  height: 200px;
+}
+.coding {
+  height: 200px;
+}
